@@ -4,6 +4,6 @@ $(document).ready(function() {
 	==============================================*/
 	
 	$(window).load(function(){
-		$('#page-loader').fadeOut("slow");
+		$('.loader').fadeOut("slow");
 	})
 	});	
