@@ -4,6 +4,7 @@ $(document).ready(function() {
 	==============================================*/
 	
 	$(window).load(function(){
-		$('.loader').fadeOut("slow");
+		$('.loader').fadeOut(2000);
+		console.log("soo smart.")
 	})
 	});	

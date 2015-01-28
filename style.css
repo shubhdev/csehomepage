@@ -7,19 +7,19 @@ body {
     color : #444;
 }
 .dotswrapper {
-    top: 45%;
+    top: 38%;
     position: fixed !important;
     width: 200px !important;
     height: 50px !important;
-    left: calc(50% - 50px) !important;
+    left: calc(48% - 50px) !important;
     background: #fff;
 }
 .dota{
-    top:60%;
+    top:49%;
     position:fixed;
     width: 200px !important;
     height: 50px !important;
-    left:calc(43%) !important;
+    left:calc(40%) !important;
     background:#fff;
 }
 .loader{
